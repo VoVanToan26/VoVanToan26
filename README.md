@@ -44,3 +44,16 @@
 
 ## My Projects:
 
+<h3>1. IOT project to support QC and PI departments</h3>
+Descriptions: - Manage the information of measuring equipment, user and measuring data for QC and PI departments
+<img src="images/FIOT.png" alt="FIOT">
+
+<h3>2. Fishing-vn ECommerce Website Demo</h3>
+Descriptions: 
+- Manage the information of measuring equipment, user and measuring data for QC and PI departments
+- Create to learn Node JS and React JS
+- There is a web application to manage products, users, orders, shopping carts
+- Decentralize features for each type of user (User Normal, Admin, Seller) 
+- Link github:<a href="https://github.com/VoVanToan26/Fishing-web-app-NodeJS-ReactJS" target="_blank"> </a>
+- Website demo:<a href="https://fishsing-vn.onrender.com" target="_blank"> </a>    
+<img src="images/FishingWeb-app.png" alt="Fishing-webapp">
