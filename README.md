@@ -5,10 +5,10 @@
 -  I’m working on Maruei Vietnam Precision Co., Ltd in position IFS Engineering 
 -  I use daily:
     + JavaScript, PHP, MySQL, HTML, CSS,
-    + Bootstrap,Jquery,Hicharts,...
+    + Ajax,Bootstrap,Jquery,Hicharts,...
     + Database: MySQL
     + Tool: VS Code
--  I'm learning about: NodeJS, ReactJS, MongoDB(Mongoose),VS Code
+-  I'm learning about: NodeJS(Express), ReactJS, MongoDB(Mongoose),VS Code
 
 <br />
 
