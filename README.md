@@ -3,12 +3,13 @@
 
 -  I graduated of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE). Major is mechatronics
 -  I’m working on Maruei Vietnam Precision Co., Ltd in position IFS Engineering 
+-  I have over 1 yoe in position Web Developer
 -  I use daily:
     + JavaScript, PHP, MySQL, HTML, CSS,
     + Ajax,Bootstrap,Jquery,Hicharts,...
     + Database: MySQL
     + Tool: VS Code
--  I'm learning about: NodeJS(Express), ReactJS, MongoDB(Mongoose),VS Code
+-  I'm learning about: Laravel, NodeJS(Express), ReactJS, MongoDB(Mongoose),VS Code
 
 <br />
 
