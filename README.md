@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I am Van Toan</h1>
 
 
--  I graduated of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE). Major is mechatronics
--  I’m working on Maruei Vietnam Precision Co., Ltd in position IFS Engineering 
+-  I graduated from [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn) (HCMUTE). My major is mechatronics and GPA is: 8.23/10.
+-  I’m working on Maruei Vietnam Precision Co., Ltd in the position of IFS Engineering 
 -  I have over 1 yoe in position Web Developer
 -  I use daily:
     + JavaScript, PHP, MySQL, HTML, CSS,
-    + Ajax,Bootstrap,Jquery,Hicharts,...
+    + Ajax, Bootstrap, Jquery, Hicharts,...
     + Database: MySQL
     + Tool: VS Code
 -  I'm learning about: Laravel, NodeJS(Express), ReactJS, MongoDB(Mongoose),VS Code
